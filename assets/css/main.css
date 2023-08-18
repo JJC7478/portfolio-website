@@ -23,6 +23,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
+	font-family: 'Montserrat', sans-serif;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -99,7 +100,7 @@ input, select, textarea {
 
 	body, input, select, textarea {
 		color: #888;
-		font-family: "Lato", sans-serif;
+		font-family: 'Montserrat', sans-serif;
 		font-size: 16pt;
 		font-weight: 400;
 		line-height: 1.75em;
